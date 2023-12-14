@@ -7,7 +7,7 @@
 
 <br>
 
-Hi, I'm Emmanuel Itodo. I have experience as an auditor for Bakertilly(Chartere Accountants) specializing in International regulatory compliance. I am passionate about solving business challenges, which led me to immerse myself in the realm of data.. Exploring data warehousing ETL has taught me the value of leveraging historical and industry-related data for effective decision-making. Proficiency with tools like MySQL Workbench and PowerBI has equipped me with the practical skills. Beside's data stuff, I enjoying playing football and watching Chelsea.
+Hi, I'm Emmanuel Itodo. I have experience as an auditor for Bakertilly(Chartered Accountants) specializing in International regulatory compliance. I am passionate about solving business challenges, which led me to immerse myself in the realm of data.. Exploring data warehousing ETL has taught me the value of leveraging historical and industry-related data for effective decision-making. Proficiency with tools like MySQL Workbench and PowerBI has equipped me with the practical skills. Beside's data stuff, I enjoying playing football and watching Chelsea.
 
 <br>
 
