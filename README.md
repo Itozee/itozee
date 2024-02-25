@@ -17,7 +17,7 @@ Hello, I'm  Manuel Itodo. With a background as an auditor at Bakertilly (Charter
 
 <img align="right" alt="GIF" src="https://media.giphy.com/media/3ohzdKvLT1DxFxhZAI/giphy.gif" />
 
- - 📫 How to reach me: [itodoemmanuel996@Yahoo.com](mailto:itodoemmanuel996.com);
+ - 📫 How to reach me: [Manuelitodo@Yahoo.com](mailto:itodoemmanuel996.com);
  
  <br>
 
